@@ -1,4 +1,5 @@
 Title: Credit Card Fraud Detection
+Accuracy:0.94
 
 1. Introduction:
 Credit card fraud is a significant concern in the digital economy, leading to billions in losses annually. Detecting fraudulent transactions quickly and accurately is crucial to ensure financial security and build trust in online payment systems. With the power of machine learning, it is now possible to identify fraudulent behavior patterns in real time.
